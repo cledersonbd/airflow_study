@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-docker-compose up airflow-init \
+docker-compose up airflow-init
 ```
 
 ## Usage
@@ -16,11 +16,9 @@ docker-compose up airflow-init \
 docker-compose up
 ```
 
-## Run tests
+## Verify it
 
-```sh
 Go to http://localhost:8080
-```
 
 ## Author
 
